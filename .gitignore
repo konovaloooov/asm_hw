@@ -1,0 +1,10 @@
+/Пакет TASM-20240916
+.DS_Store
+*.EXE
+*.LST
+*.OBJ
+*.MAP
+*.COM
+*.docx
+*.xlsx
+*.pdf
